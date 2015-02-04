@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CodePathLoginExercise</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="log_in_caps">LOG IN</string>
+    <string name="log_in">Log in</string>
+    <string name="send_caps">SEND</string>
+    <string name="sign_up">Sign up</string>
+    <string name="terms">Terms</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+</resources>
